@@ -26,6 +26,7 @@ Swipe left on any word in your Favorites list.
 ## Contact
 
 Please feel free to leave a feature request on the github page or report any problems on this GitHub page; or contact the support email: dem.vortilo@gmail.com
+
 As this is a solo development, I will do my best to resolve any and all issues as quickly as possible, but for anything not breaking immediate service cannot be guaranteed. 
 
 ## Attribution
